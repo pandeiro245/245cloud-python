@@ -25,7 +25,7 @@ SECRET_KEY = '@(u*-^4@q0q(n84c#70v-n_&#$4fvtq*09%2k3e1$%#2n$iorn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['the245cloud-python-pandeiro245.c9users.io']
 
 
 # Application definition
